@@ -5,3 +5,4 @@ a = np.array([[3, -2], [2, 1]])
 b = np.array([12, 1])
 d = np.linalg.solve(a, b)
 print(d)
+f
